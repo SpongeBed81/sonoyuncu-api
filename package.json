@@ -1,0 +1,17 @@
+{
+  "name": "sonoyuncu-api",
+  "version": "1.0.0",
+  "description": "SonOyuncu Minecraft Sunucusunun Kendi Websitesinde Bulunan Oyun Sıralamalarını Çekmeniz İçin Yapılmış Kullanması Kolay Ve Hızlı Bir API Paketidir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sonoyuncu"
+  ],
+  "author": "SpongeBed",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
